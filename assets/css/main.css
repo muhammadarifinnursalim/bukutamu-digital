@@ -1,0 +1,14 @@
+.mg-top20 {
+	margin-top: 20px;
+}
+
+.view-more {
+	font-size : 12px;
+	font-weight: bold;
+	color : #007bff;
+	cursor : pointer;
+}
+
+.text-wrap {
+	word-wrap: break-word; 
+}
